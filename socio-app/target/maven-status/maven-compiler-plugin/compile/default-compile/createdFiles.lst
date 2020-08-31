@@ -1,0 +1,12 @@
+com\socio\repository\SubscriptionId.class
+com\socio\utils\Utils.class
+com\socio\model\Subscription.class
+com\socio\repository\RegistrationRepository.class
+com\socio\services\SocioService.class
+com\socio\Application.class
+com\socio\repository\ClubRepository.class
+com\socio\controllers\SocioController.class
+com\socio\model\Registration.class
+com\socio\repository\SubscriptionRepository.class
+com\socio\model\Club.class
+com\socio\services\PersistenceService.class
